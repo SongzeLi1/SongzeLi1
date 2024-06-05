@@ -7,4 +7,6 @@
 
 <!-- 数据概览 -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongzeLi1)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=SongzeLi1&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SongzeLi1&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
