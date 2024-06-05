@@ -1,6 +1,9 @@
 ## Hi there 👋
+<!-- https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Xiaokang2022!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
 
-<!-- 动态字体 -->
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <img src="[https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=3FCBF7&background=FFFFFF00&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&random=%E5%81%87&width=435&lines=Welcome+to+my+Github+profile+page!)" />
@@ -33,4 +36,9 @@
 <img src="https://img.shields.io/badge/QQ-1147972374-blue?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=SongzeLi1&abbreviated=true&color=yellow" />
+</p>
+
+<!-- https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
