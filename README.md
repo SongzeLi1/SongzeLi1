@@ -10,7 +10,6 @@
 ## 📊 GitHub 数据统计
 
 <p align="center">
-
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=SongzeLi1&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
 
@@ -28,3 +27,16 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongzeLi1&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
+
+<!-- https://github.com/tandpfun/skill-icons -->
+<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
+</p>
+
+
+<p align="center">
+<!-- https://github.com/badges/shields -->
+<a href="https://github.com/SongzeLi1"><img src="https://img.shields.io/badge/GitHub-SongzeLi1-green?logo=github" /></a>
+<img src="https://img.shields.io/badge/QQ-1147972374-blue?logo=tencentqq" />
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+<img src="https://komarev.com/ghpvc/?username=Xiaokang2022&abbreviated=true&color=yellow" />
+</p>
