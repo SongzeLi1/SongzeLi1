@@ -11,12 +11,6 @@
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 </picture>
 <br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SongzeLi1/SongzeLi1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SongzeLi1/SongzeLi1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
-</picture>
-<br/>
 
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=py,pytorch,qt,linux,matlab&theme=light" />
@@ -26,6 +20,13 @@
 <img src="https://img.shields.io/badge/QQ-1147972374-blue?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=SongzeLi1&abbreviated=true&color=yellow" />
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SongzeLi1/SongzeLi1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SongzeLi1/SongzeLi1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+</picture>
 </p>
 
 
