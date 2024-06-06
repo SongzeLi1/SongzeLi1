@@ -8,7 +8,7 @@
 
 <!-- https://github.com/Peter-JXL -->
 <p align="center">
-<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
+<img align="right" width="88" src="https://avatars.githubusercontent.com/u/119499240?s=400&u=7b336fd876110acf12934df112b8d0bd97bf6bb1&v=4" />
 <p>&emsp;&emsp;嗨，我是Li Songze。热爱编程、阅读、健身、羽毛球。</p>
 <p>&emsp;&emsp;研究图像篡改检测与定位相关工作。</p>
 <p>&emsp;&emsp;记录学习中遇到的一些问题。</p>
