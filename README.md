@@ -16,6 +16,16 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SongzeLi1/SongzeLi1/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
 </picture>
+<br/>
+
+<!-- https://github.com/tandpfun/skill-icons -->
+<img align="center" src="https://skillicons.dev/icons?i=py,pytorch,qt,linux,matlab&theme=light" />
+<br/>
+<!-- https://github.com/badges/shields -->
+<a href="https://github.com/SongzeLi1"><img src="https://img.shields.io/badge/GitHub-SongzeLi1-green?logo=github" /></a>
+<img src="https://img.shields.io/badge/QQ-1147972374-blue?logo=tencentqq" />
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+<img src="https://komarev.com/ghpvc/?username=SongzeLi1&abbreviated=true&color=yellow" />
 </p>
 
 
@@ -40,25 +50,12 @@
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=SongzeLi1&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <br/>
-  
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SongzeLi&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SongzeLi&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=3" />
-<br/>
-  
-<!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=py,pytorch,qt,linux,matlab&theme=light" />
 </p>
 
-
-<p align="center">
-<!-- https://github.com/badges/shields -->
-<a href="https://github.com/SongzeLi1"><img src="https://img.shields.io/badge/GitHub-SongzeLi1-green?logo=github" /></a>
-<img src="https://img.shields.io/badge/QQ-1147972374-blue?logo=tencentqq" />
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=SongzeLi1&abbreviated=true&color=yellow" />
-</p>
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
