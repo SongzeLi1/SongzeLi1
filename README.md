@@ -3,17 +3,24 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Li%20Songze!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
 </p>
 
+<!-- https://github.com/Peter-JXL -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
+</p>
+
 
 ### 🙋 Hello
 
-<!-- https://github.com/Peter-JXL -->
 <p align="center">
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/119499240?s=400&u=7b336fd876110acf12934df112b8d0bd97bf6bb1&v=4" />
 <p>&emsp;&emsp;嗨，我是Li Songze。热爱编程、阅读、健身、羽毛球。</p>
-<p>&emsp;&emsp;研究图像篡改检测与定位相关工作。</p>
-<p>&emsp;&emsp;记录学习中遇到的一些问题。</p>
+<p>&emsp;&emsp;目前研究图像篡改检测与定位相关工作，图像类型主要是文档图像。</p>
+<p>&emsp;&emsp;在此记录本人学习中遇到的一些问题。</p>
 </p>
-
 
 
 ## 📊 Data Statistics
@@ -35,8 +42,9 @@
 <br/>
   
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=py,pytorch,qt,cpp,linux,matlab,html,ps&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=py,pytorch,qt,linux,matlab&theme=light" />
 </p>
+
 
 <p align="center">
 <!-- https://github.com/badges/shields -->
