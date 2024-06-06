@@ -3,11 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Li%20Songze!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
 </p>
 
-<!-- https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-<img src="[https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=3FCBF7&background=FFFFFF00&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&random=%E5%81%87&width=435&lines=Welcome+to+my+Github+profile+page!)" />
-</p>
-
 
 ### 🙋 Hello
 
@@ -17,12 +12,11 @@
 <p>&emsp;&emsp;嗨，我是Li Songze。热爱编程、阅读、健身、羽毛球。</p>
 <p>&emsp;&emsp;研究图像篡改检测与定位相关工作。</p>
 <p>&emsp;&emsp;记录学习中遇到的一些问题。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 </p>
 
 
 
-## 📊 GitHub 数据统计
+## 📊 Data Statistics
 
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
