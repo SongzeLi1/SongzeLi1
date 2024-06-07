@@ -27,6 +27,9 @@
 <p>&emsp;&emsp;嗨，我是Li Songze。热爱编程、阅读、健身、羽毛球。</p>
 <p>&emsp;&emsp;目前研究图像篡改检测与定位相关工作，图像类型主要是文档图像。</p>
 <p>&emsp;&emsp;在此记录本人学习中遇到的一些问题。</p>
+<p>&emsp;&emsp;Hi, I'm Li Songze. love programming, reading, fitness, badminton.</p>
+<p>&emsp;&emsp;Currently researching work related to image tampering detection and localization, the image type is mainly document images.</p>
+<p>&emsp;&emsp;I would like to record some of the problems I have encountered in my studies.</p>
 </p>
 
 
