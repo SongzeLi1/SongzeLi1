@@ -25,7 +25,7 @@
 <p align="center">
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/119499240?s=400&u=7b336fd876110acf12934df112b8d0bd97bf6bb1&v=4" />
 <p>&emsp;&emsp;嗨，我是Li Songze。热爱编程、阅读、健身、羽毛球。</p>
-<p>&emsp;&emsp;目前研究图像篡改检测与定位相关工作，图像类型主要是文档图像。</p>
+<p>&emsp;&emsp;目前研究文档图像篡改检测与定位相关工作。</p>
 <p>&emsp;&emsp;在此记录本人学习中遇到的一些问题。</p>
 <br/>
 <p>&emsp;&emsp;Hi, I'm Li Songze. love programming, reading, fitness, badminton.</p>
