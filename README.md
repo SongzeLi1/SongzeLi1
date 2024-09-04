@@ -21,13 +21,12 @@
 
 
 ### 🙋 Hello
-
 <p align="center">
 <img align="right" width="88" src="https://avatars.githubusercontent.com/u/119499240?s=400&u=7b336fd876110acf12934df112b8d0bd97bf6bb1&v=4" />
-<p>&emsp;&emsp;嗨，我是Li Songze。热爱编程、阅读、健身、羽毛球。</p>
+<!-- <p>&emsp;&emsp;嗨，我是Li Songze。热爱编程、阅读、健身、羽毛球。</p>
 <p>&emsp;&emsp;目前研究文档图像篡改检测与定位相关工作。</p>
 <p>&emsp;&emsp;在此记录本人学习中遇到的一些问题。</p>
-<br/>
+<br/> -->
 <p>&emsp;&emsp;Hi, I'm Li Songze. love programming, reading, fitness, badminton.</p>
 <p>&emsp;&emsp;Researching work related to document image tampering detection and localization.</p>
 <p>&emsp;&emsp;I would like to record some of the problems I have encountered in my studies.</p>
@@ -57,7 +56,7 @@
 <p align="center">
 <!-- https://github.com/badges/shields -->
 <a href="https://github.com/SongzeLi1"><img src="https://img.shields.io/badge/GitHub-SongzeLi1-green?logo=github" /></a>
-<img src="https://img.shields.io/badge/QQ-1147972374-blue?logo=tencentqq" />
+<a href="https://www.kaggle.com/lisongze"><img src="https://img.shields.io/badge/Kaggle-Lisongze-red?logo=kaggle" /></a>
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=SongzeLi1&abbreviated=true&color=yellow" />
 </p>
